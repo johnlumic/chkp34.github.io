@@ -3,9 +3,9 @@
         background-color: white;
     }
     a{ text-decoration: underline; }
-    div { width:100%}
-    .down{width:500}
-    .head{width: 500px; font-size: 150%;}
+    .down{width:500px}
+    .logo{border:0; width:450;}
+    
 }
 @media screen and (max-device-width:480px){
     body {
@@ -16,7 +16,7 @@
     .font{font-size: 150%;}
     a{ text-decoration: underline; }
     div{ width:100%}
-    .down{width:1000}
+    .down{width:100}
     
     
 }
