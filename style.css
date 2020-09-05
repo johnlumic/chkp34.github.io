@@ -2,6 +2,7 @@
     body {
         background-color: white;
     }
+    #text{font-size: 40px;}
     a{ text-decoration: underline; }
     div { width:100%}
 }
@@ -10,6 +11,6 @@
         background-color: white;
     }
     a{ text-decoration: underline; }
-    div{ width='100%'}
-    й
+    div{ width:100%}
+    
 }
