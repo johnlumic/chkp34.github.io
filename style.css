@@ -2,11 +2,13 @@
     body {
         background-color: white;
     }
+    a{ text-decoration: underline; }
     div { width='60%'}
 }
 @media screen and (max-device-width:480px){
     body {
-        background-color: blue;
+        background-color: white;
     }
+    a{ text-decoration: underline; }
     div{ width='100%'}
 }
