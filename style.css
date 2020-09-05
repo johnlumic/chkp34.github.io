@@ -3,12 +3,12 @@
         background-color: white;
     }
     a{ text-decoration: underline; }
-    div { width='60%'}
+    div { width:100%}
 }
 @media screen and (max-device-width:480px){
     body {
         background-color: white;
     }
     a{ text-decoration: underline; }
-    div{ width='100%'}
+    div{ width='150%'}
 }
