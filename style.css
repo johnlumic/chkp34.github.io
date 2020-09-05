@@ -4,7 +4,7 @@
     }
     a{ text-decoration: underline; }
     div { width:100%}
-    .down{width='500'}
+    .down{width:500}
 }
 @media screen and (max-device-width:480px){
     body {
@@ -15,7 +15,7 @@
     .font{font-size: 150%;}
     a{ text-decoration: underline; }
     div{ width:100%}
-    .down{width='700'}
+    .down{width:1000}
     
     
 }
