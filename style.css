@@ -1,0 +1,12 @@
+@media screen{
+    body {
+        background-color: white;
+    }
+    div { width='60%'}
+}
+@media screen and (max-device-width:480px){
+    body {
+        background-color: blue;
+    }
+    div{ width='100%'}
+}
