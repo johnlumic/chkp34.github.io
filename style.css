@@ -9,6 +9,7 @@
     body {
         background-color: white;
     }
+    #font{font-size: 150%;}
     a{ text-decoration: underline; }
     div{ width:100%}
     p{font-size: 40px;}
