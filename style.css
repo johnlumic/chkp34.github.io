@@ -3,8 +3,10 @@
         background-color: white;
     }
     a{ text-decoration: underline; }
-    .down{width:500px}
-    .logo{border:0; width:450;}
+    h1{font-size:190%;}
+    .down{width:80%; max-width: 700px;}
+    .log{border:0; width:90%; max-width: 500px;}
+    .links{font-size:90%; width: 70%;max-width:350px;}
     
 }
 @media screen and (max-device-width:480px){
@@ -12,11 +14,11 @@
         background-color: white;
     }
     h1{font-size: 200%;}
-    .head{width: 1000px; font-size: 150%;}
     .font{font-size: 150%;}
     a{ text-decoration: underline; }
-    div{ width:100%}
-    .down{width:100}
-    
+    .down{width:100%; max-width: 700px;}
+    .links{font-size:90%; width: 70%;max-width:350px;}
+    .log{border:0; width:90%; max-width: 500px;}
+
     
 }
