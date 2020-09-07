@@ -8,6 +8,7 @@
     .log{border:0; width:90%; max-width: 500px;}
     .links{font-size:90%; width: 70%;max-width:350px;}
     .pic {width: 70%;}
+    .cake{width: 70%;}
 }
 @media screen and (max-device-width:480px){
     body {
@@ -16,7 +17,8 @@
     h1{font-size: 50px;}
     .font{font-size: 150%;}
     a{ text-decoration: underline; }
-    .down{width:200%;}
+    .down{width:900px;}
+    .cake{width: 300px;}
     .links{font-size:200%; width: 100%;}
     .log{border:0; width:450px;}
     .pic {width: 400px;}
