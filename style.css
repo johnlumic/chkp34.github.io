@@ -7,7 +7,7 @@
     .down{width:80%; max-width: 700px;}
     .log{border:0; width:90%; max-width: 500px;}
     .links{font-size:90%; width: 70%;max-width:350px;}
-    
+    .pic {width: 70%;}
 }
 @media screen and (max-device-width:480px){
     body {
@@ -19,6 +19,6 @@
     .down{width:200%;}
     .links{font-size:200%; width: 100%;}
     .log{border:0; width:1000px;}
-
+    .pic {width: 120%;}
     
 }
